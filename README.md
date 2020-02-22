@@ -17,9 +17,9 @@
 ### Client
 * run client/clientcli.py
 * with the next argumets:
-**    -h, --help            show this help message and exit
-**    -type {tcp,udp}, --type {tcp,udp} Select client type
-**    -to , --timeout timeout for request, default in No timeout
-**    -p , --port  Connection port
-**    -ps , --packet_size   msg packet size
-**    -ip , --ip server ip
+ *    -h, --help            show this help message and exit
+ *    -type {tcp,udp}, --type {tcp,udp} Select client type
+ *    -to , --timeout timeout for request, default in No timeout
+ *    -p , --port  Connection port
+ *    -ps , --packet_size   msg packet size
+ *    -ip , --ip server ip
